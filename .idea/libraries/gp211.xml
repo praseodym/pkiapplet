@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gp211">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/gp211" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/gp211" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/gp211" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/gp211" recursive="false" type="SOURCES" />
+  </library>
+</component>

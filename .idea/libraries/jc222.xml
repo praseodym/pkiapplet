@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jc222">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/jc222" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/jc222" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/jc222" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/.eclipse/org.eclipse.platform_4.2.0_186096614/plugins/com.ibm.bluez.jcop.eclipse_3.3.8/apis/jc222" recursive="false" type="SOURCES" />
+  </library>
+</component>
